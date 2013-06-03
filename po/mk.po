@@ -65,6 +65,11 @@ msgstr ""
 
 #. [about]
 #: The_Three_Elves/credits.cfg:30
+msgid "Translations"
+msgstr ""
+
+#. [about]
+#: The_Three_Elves/credits.cfg:41
 msgid "Also many thanks to:"
 msgstr ""
 

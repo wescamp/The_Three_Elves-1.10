@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Three_Elves-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-28 16:36-0400\n"
+"POT-Creation-Date: 2013-06-03 23:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,6 +75,11 @@ msgstr ""
 
 #. [about]
 #: ./The_Three_Elves/credits.cfg:30
+msgid "Translations"
+msgstr ""
+
+#. [about]
+#: ./The_Three_Elves/credits.cfg:41
 msgid "Also many thanks to:"
 msgstr ""
 
